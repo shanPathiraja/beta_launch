@@ -1,0 +1,1 @@
+export const FILTER_ACTION = "FILTER_ACTION";

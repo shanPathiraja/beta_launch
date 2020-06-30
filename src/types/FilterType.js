@@ -1,0 +1,8 @@
+export const SEARCH_FILTER = "SEARCH_FILTER";
+export const COLOR_FILTER = "COLOR_FILTER";
+
+export const PRICE_FILTER = "PRICE_FILTER";
+
+export const BRAND_FILTER = "BRAND_FILTER";
+
+export const CATOGERY_FILTER = "CATOGERY_FILTER";
